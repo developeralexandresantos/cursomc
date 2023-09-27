@@ -13,7 +13,10 @@ import br.com.developeralexandresantos.cursomc.services.PedidoService;
 @RestController
 @RequestMapping(value = "/pedidos")
 public class PedidoResource {
-
+	/**
+	 * author: Alexandre A Santos
+	 * Fixes the card 06 - test for the Azure Boards
+	 */
 	@Autowired
 	private PedidoService service;
 
