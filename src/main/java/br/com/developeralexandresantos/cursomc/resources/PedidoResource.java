@@ -15,7 +15,7 @@ import br.com.developeralexandresantos.cursomc.services.PedidoService;
 public class PedidoResource {
 	/**
 	 * author: Alexandre A Santos
-	 * Test to move the task to review
+	 * New Test to move the task to review
 	 */
 	@Autowired
 	private PedidoService service;
