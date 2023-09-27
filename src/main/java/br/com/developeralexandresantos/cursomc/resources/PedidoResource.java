@@ -15,7 +15,7 @@ import br.com.developeralexandresantos.cursomc.services.PedidoService;
 public class PedidoResource {
 	/**
 	 * author: Alexandre A Santos
-	 * Test to move the card to doing
+	 * Test to move the card to Active
 	 */
 	@Autowired
 	private PedidoService service;
