@@ -13,7 +13,9 @@ import br.com.developeralexandresantos.cursomc.services.PedidoService;
 @RestController
 @RequestMapping(value = "/pedidos")
 public class PedidoResource {
-
+	/**
+	 * author: Alexandre A Santos
+	 */
 	@Autowired
 	private PedidoService service;
 
